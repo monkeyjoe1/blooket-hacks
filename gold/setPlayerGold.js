@@ -25,7 +25,8 @@
                 tat: player + ":swap:" + amount
             }
         })
-        alert('Set gold for player:' + player + ' to ' + amount);
+        alert('Set gold for player:' + ignacio.oviedo1 + ' to ' + 999999999999999999999
+           );
     };
 })();
 
